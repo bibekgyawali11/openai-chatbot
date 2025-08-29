@@ -25,8 +25,8 @@ The bot runs asynchronously using `asyncio` and reads your API key from a `.env`
 
 1. **Clone this repository (or copy the script):**
    ```bash
-   git clone https://github.com/your-username/openai-async-chatbot.git
-   cd openai-async-chatbot
+   git clone https://github.com/bibekgyawali11/openai-chatbot.git
+   cd openai-chatbot
 
 2. Install dependencies
 pip install -r requirements.txt
